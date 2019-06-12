@@ -127,5 +127,6 @@ main.py:
 2. 一个module应该只有一种方式import，这也是python的哲学，所以项目中的子目录不要加入到sys.path中
 
     
-代码
+示例代码
 ----
+[github代码链接](https://github.com/ninghejun/learn_python/tree/master/bug_logging)
